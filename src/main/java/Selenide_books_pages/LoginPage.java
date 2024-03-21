@@ -8,5 +8,5 @@ public class LoginPage {
     public SelenideElement name = $("#userName");
     public SelenideElement password = $("#password");
     public SelenideElement submitButton = $("#login");
-    public SelenideElement newUserButton = $("#newUser");  //.shouldBe(visible); - to ma jakis problem
+    public SelenideElement newUserButton = $("#newUser");
 }
